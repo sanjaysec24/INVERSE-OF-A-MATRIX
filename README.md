@@ -25,7 +25,7 @@ B = np.linalg.inv(A)
 print(B)
 ```
 ## Output:
-![OUTPUT](./images/kavin.png)
+![alt text](<Screenshot 2024-12-11 133257.png>)
 
 
 ## Result:
